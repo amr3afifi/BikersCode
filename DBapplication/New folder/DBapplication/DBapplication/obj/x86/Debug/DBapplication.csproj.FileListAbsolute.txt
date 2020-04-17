@@ -1,0 +1,155 @@
+D:\Database\Labs\Lab 6\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AddProject.resources
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.EmployeeForm.resources
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewEmployeeProjects.resources
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewEmployees.resources
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Provided_Functionalities.resources
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.RetrieveProjects.resources
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.GetALLProjects.resources
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.GetALLDepartments.resources
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.GetProjectbyName.resources
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AddDepartment.resources
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.UpdateDepartment.resources
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SalarySearch.resources
+D:\Database\Labs Solutions\Lab 6\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Statistics.resources
+D:\Database\Project\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+D:\Database\Project\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+D:\Database\Project\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.DeleteEmployee.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.InsertCustomer.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.InsertEmployee.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SearchCustomerByName.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SearchCustomerByPoints.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SearchEmployeeByName.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SearchEmployeeBySalary.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.UpdateCustomer.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.UpdateEmployee.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewAllEmployees.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ProvidedFunctionalities.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.InsertUser.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.DeleteUser.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ChangePassword.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.DeleteSupplier.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.InsertBill.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.InsertSupplier.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.UpdateSupplier.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewBillFBranch.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewBillFCustomer.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewBillFDate.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewBillFPrices.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewSupplierFEndDate.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewSupplierFName.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewSupplierFQuotaFilled.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewBillFProduct.resources
+D:\secret backup\Integrated\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+D:\secret backup\Integrated\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+D:\secret backup\Integrated\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Accessories.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AddBranch.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AddDepartment.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AddProduct.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AddShipments.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.BranchManager.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.DeleteBranch.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.DepartmentEmployees.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.EditDepartment.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Edit_Shipment.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Motorcycle.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ShipmentItem.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ShipmentStatus.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SpareParts.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewBranchFProduct.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewShipemntsByBranch.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewShipemntsByOrderDate.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.viewShipmentbyId.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewShipmentByStatus.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewShipmentsbyArrivalDate.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewShipmentsByPrice.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewShipmentsBySuppliers.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.deleletallsprelated.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.DeleteProduct.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Form2.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.updateaccessory.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.updatemotor.resources
+D:\Database\Project\DBapplication\DBapplication\obj\x86\Debug\DBapplication.updatesparepart.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csprojAssemblyReference.cache
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Accessories.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AddBranch.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AddDepartment.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AddProduct.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AddShipments.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.BranchManager.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ChangePassword.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.deleletallsprelated.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.DeleteBranch.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.DeleteEmployee.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.DeleteProduct.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.DeleteSupplier.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.DeleteUser.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.DepartmentEmployees.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.EditDepartment.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Edit_Shipment.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.InsertBill.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.InsertCustomer.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.InsertEmployee.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.InsertSupplier.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.InsertUser.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Motorcycle.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ProvidedFunctionalities.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SearchCustomerByName.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SearchCustomerByPoints.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SearchEmployeeByName.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SearchEmployeeBySalary.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ShipmentItem.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ShipmentStatus.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.SpareParts.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.updateaccessory.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.UpdateCustomer.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.UpdateEmployee.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.updatemotor.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.updatesparepart.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.UpdateSupplier.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewAllEmployees.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewBillFBranch.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewBillFCustomer.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewBillFDate.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewBillFPrices.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewBillFProduct.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewBranchFProduct.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewShipemntsByBranch.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewShipemntsByOrderDate.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.viewShipmentbyId.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewShipmentByStatus.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewShipmentsbyArrivalDate.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewShipmentsByPrice.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewShipmentsBySuppliers.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewSupplierFEndDate.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewSupplierFName.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewSupplierFQuotaFilled.resources
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.cache
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.CoreCompileInputs.cache
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\amr_h\Desktop\New folder\DBapplication\DBapplication\obj\x86\Debug\DBapplication.BranchtoBranch.resources
